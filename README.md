@@ -1,35 +1,35 @@
-# 👋 Hi, I'm Yoldez Boubahri
+#  Hello! I'm Yoldez Boubahri
 
-🎓 Final-year Engineering Student @ ESSAI — Statistics & Information Analysis
-🤖 AI • Machine Learning • NLP • LLM Systems
-
----
-
-## 🚀 About Me
-
-- 🔬 Building Machine Learning & AI systems
-- 🧠 Working with LLMs, RAG pipelines & NLP applications
-- 👁️ Exploring Computer Vision (medical imaging)
-- ⚙️ Interested in scalable, production-ready AI systems
-- 📊 Strong foundation in Statistics & Data Analysis
-- 🚀 Currently leading & contributing to tech communities
+ Final-year Engineering Student @ ESSAI — Statistics & Information Analysis
+ AI • Machine Learning • NLP • LLM Systems
 
 ---
 
-## 🧠 AI & Data Expertise
+##  About Me
 
-- 🤖 Machine Learning (Supervised / Unsupervised)
-- 🔎 Retrieval-Augmented Generation (RAG)
-- 🧾 Large Language Models (LLMs) & multilingual NLP
-- 👁️ Computer Vision
-- 📊 Statistical Inference & Data Analysis
-- 🧮 Feature Engineering & Model Evaluation
+-  Building Machine Learning & AI systems
+-  Working with LLMs, RAG pipelines & NLP applications
+-  Exploring Computer Vision (medical imaging)
+-  Interested in scalable, production-ready AI systems
+-  Strong foundation in Statistics & Data Analysis
+-  Currently leading & contributing to tech communities
 
 ---
 
-## 🛠️ Tech Stack
+##  AI & Data Expertise
 
-### 👨‍💻 Languages
+-  Machine Learning (Supervised / Unsupervised)
+-  Retrieval-Augmented Generation (RAG)
+-  Large Language Models (LLMs) & multilingual NLP
+-  Computer Vision
+-  Statistical Inference & Data Analysis
+-  Feature Engineering & Model Evaluation
+
+---
+
+##  Tech Stack
+
+###  Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
 </p>
 
-### 🤖 AI / ML / Data
+###  AI / ML / Data
 
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 </p>
 
-### ⚙️ Backend & Systems
+###  Backend & Systems
 
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -60,7 +60,7 @@
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
-### 🗄️ Databases & Tools
+###  Databases & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -73,14 +73,14 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=yoldezboubahri&show_icons=true&theme=tokyonight&title_color=db61a2&icon_color=db61a2&hide_border=true&bg_color=00000000" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=yoldezboubahri&layout=compact&theme=tokyonight&title_color=db61a2&hide_border=true&bg_color=00000000&langs_count=8" alt="Top languages" />
 </p>
 
-## 🔥 Streak Stats
+##  Streak Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=yoldezboubahri&theme=tokyonight&hide_border=true&background=00000000&ring=db61a2&fire=db61a2&currStreakLabel=e3b341" alt="Streak stats" />
@@ -88,38 +88,38 @@
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
-- 🚀 Building RAG-based AI systems
-- 🕸️ Learning GraphRAG
-- 🧠 Exploring LLM architectures & applications
-- 🏗️ Designing scalable AI pipelines
-
----
-
-## 📌 Featured Projects
-
-- 🏦 [**Customer Complaints Analysis — Attijari Bank**](https://github.com/yoldezboubahri/Analyse-des-r-clamations-clients) — multilingual NLP pipeline for sentiment analysis & churn risk prediction
-- 🤖 **Clausia** — RAG-based AI application on documents (NLP / NER pipeline)
-- 🧠 **Brain MRI** — medical image classification
-- 💳 **Credit Scoring** — statistical & ML risk modelling
+-  Building RAG-based AI systems
+-  Learning GraphRAG
+-  Exploring LLM architectures & applications
+-  Designing scalable AI pipelines
 
 ---
 
-## 🤝 Communities
+##  Featured Projects
 
-- 🌱 Project Lead @ Enactus ESSAI
-- 🤖 HR Manager @ ESSAI Machine Learning Club
-- 📈 HR Manager @ ASIA (Statistics & Artificial Intelligence)
-- 🎙️ Podcast Manager @ ESSAI Radio Wavy
+-  [**Customer Complaints Analysis — Attijari Bank**](https://github.com/yoldezboubahri/Analyse-des-r-clamations-clients) — multilingual NLP pipeline for sentiment analysis & churn risk prediction
+-  **Clausia** — RAG-based AI application on documents (NLP / NER pipeline)
+-  **Brain MRI** — medical image classification
+-  **Credit Scoring** — statistical & ML risk modelling
 
 ---
 
-## 📫 Connect With Me
+##  Communities
+
+-  Project Lead @ Enactus ESSAI
+-  HR Manager @ ESSAI Machine Learning Club
+-  HR Manager @ ASIA (Statistics & Artificial Intelligence)
+-  Podcast Manager @ ESSAI Radio Wavy
+
+---
+
+##  Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/yoldez-boubahri-731b13326/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:yoldezboubahri2003@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-⭐️ *“I build intelligent systems that turn data into real-world impact.”*
+ *“I build intelligent systems that turn data into real-world impact.”*
