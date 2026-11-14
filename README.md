@@ -1,6 +1,8 @@
 #  Hello! I'm Yoldez Boubahri
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=e3b341&center=true&vCenter=true&width=700&height=44&lines=Passionate+about+turning+data+into+impactful+stories" alt="Typing animation" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=db61a2&center=true&vCenter=true&width=700&height=44&lines=Passionate+about+turning+data+into+impactful+stories" alt="Typing animation" />
+</p>
 
  Final-year Engineering Student @ ESSAI — Statistics & Information Analysis
  AI • Machine Learning • NLP • LLM Systems
