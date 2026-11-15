@@ -104,9 +104,9 @@
 ##  Featured Projects
 
 -  [**Customer Complaints Analysis — Attijari Bank**](https://github.com/yoldezboubahri/Analyse-des-r-clamations-clients) — multilingual NLP pipeline for sentiment analysis & churn risk prediction
--  **Clausia** — RAG-based AI application on documents (NLP / NER pipeline)
--  **Brain MRI** — medical image classification
--  **Credit Scoring** — statistical & ML risk modelling
+-  [**Clausia**](https://github.com/yoldezboubahri/Clausia-Assistant-reglementaire-LLM-RAG-Solvabilite-II-IFRS-17) — RAG-based AI application on documents (NLP / NER pipeline)
+-  [**Neurolens - Brain MRI**](https://github.com/yoldezboubahri/NeuroLens-CNN) — medical image classification
+-  [**Credit Scoring**](https://github.com/yoldezboubahri/Loan-ML) — statistical & ML risk modelling
 
 ---
 
